@@ -1,0 +1,12 @@
+Changement à apporter selon audit lightwork:
+	
+	- Arranger les niveaux de titres
+	- Rajouter un header, un nav, un main, un article, une section, un aside et un footer pour la 	sémantique
+	- Arranger la taille des images trop volumineuse et leur formats
+	- Rajouter un <alt> aux images
+	- Rajouter des <label> dans le formulaire
+	- Rajouter un <title>
+	- Rajouter un 'aria-label' aux liens pour l'accesibilité /lien instagram/
+	- Augmenter contraste du bouton 'Tous' par rapport au fond
+	- Rajouter un 'lang' au <html>
+	- Rajouter une <meta> description
