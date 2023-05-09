@@ -3,10 +3,32 @@ Changement à apporter selon audit lightwork:
 	- Arranger les niveaux de titres
 	- Rajouter un header, un nav, un main, un article, une section, un aside et un footer pour la 	sémantique
 	- Arranger la taille des images trop volumineuse et leur formats
-	- Rajouter un <alt> aux images
+	- Rajouter un <alt> aux images // elles ne sont pas toutes faites
 	- Rajouter des <label> dans le formulaire
 	- Rajouter un <title>
 	- Rajouter un 'aria-label' aux liens pour l'accesibilité /lien instagram/
 	- Augmenter contraste du bouton 'Tous' par rapport au fond
 	- Rajouter un 'lang' au <html>
-	- Rajouter une <meta> description
+	- Rajouter une <meta> description  // Faire une meilleure description entre 50 et 160 caract.
+	- Minification ?
+	- Mots clés ?
+	- Code inutile ?
+
+	
+	changer format image /conversion webP
+-Supression font inutile
+
+	-manque 2 changement 
+	-Création fichier jquery au lieu de connexion au site
+
+
+	-CORRECTION BUG GALLERY
+
+	-Referencement local invisible ?
+	-Probleme changement de filtre
+	
+Rajouter opening hours
+modifier meta dans le head pour reseaux sociaux
+Continuer avec point d'arret fonction next et prev
+
+	Modif word soutenance ? - google rich snippets ? - meta balise reseaux invisi ? - Bug slide
